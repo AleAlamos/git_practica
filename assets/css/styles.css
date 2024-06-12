@@ -1,0 +1,27 @@
+.roboto-medium {
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+  }
+
+.roboto-light {
+    font-family: "Roboto", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+  }
+
+  .carousel-img{
+    width: 100%;
+    height: 600px;
+    object-fit: cover;
+  }
+
+.card-hover:hover {
+    background-color: #f8f9fa;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.social-icon{
+    width: 24px;
+    height: 24px;
+}
